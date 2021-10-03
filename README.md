@@ -11,10 +11,10 @@ O projeto consiste em uma aplicação de listagem de filmes, que são consumidos
 <img src=".github/watchme.png" />
 
 ## 🧰 Tecnologias Utilizadas
-    * ReactJS
-    * Axios
-    * TypeScript
-    * SASS
+* ReactJS
+* Axios
+* TypeScript
+* SASS
 
 ## ⚙ Como rodar o projeto
 #### Crie uma pasta 
