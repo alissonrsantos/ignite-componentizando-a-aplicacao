@@ -23,7 +23,7 @@ mkdir react-ignite-components
 ```
 #### Clone este repositório para a pasta anterior ou use a opção de download:
 ```bash
-git clone https://github.com/brunoemferreira/rocketseat-ignite-react-desafio-componentizando-a-aplicacao.git
+git clone https://github.com/alissonrsantos/ignite-componentizando-a-aplicacao.git
 ```
 #### Instale as dependências
 ```bash
