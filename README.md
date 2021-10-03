@@ -29,8 +29,7 @@ git clone https://github.com/alissonrsantos/ignite-componentizando-a-aplicacao.g
 ```bash
 yarn install
 ```
-    ou
-
+ou
 ```bash
 npm install
 ```
@@ -43,7 +42,7 @@ yarn server
 ```bash
 yarn dev
 ``` 
-    ou
+ou
 ```bash
 npm dev
 ```
